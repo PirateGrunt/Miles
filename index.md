@@ -1,6 +1,6 @@
 ---
-title: Index
+title: Miles
 layout: page
 ---
 
-This is a website where Leia reviews movies. Click on a link to the left to read one!
+Hello and welcome to Miles' website! I'm going to write lots of things here.
