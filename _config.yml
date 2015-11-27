@@ -1,0 +1,23 @@
+# Dependencies
+markdown:         Kramdown
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+site:             PirateGrunt.com 
+baseurl:          /Miles
+title:            Miles musings
+tagline:          'Miles musings'
+description:      'Miles stuff'
+theme:            Superhero
+
+author:
+  name:           'Miles Fannin'
+
+paginate:         5
+
+# Custom vars
+version:          1.0.0
