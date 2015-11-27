@@ -12,7 +12,7 @@ baseurl:          /Miles
 title:            Miles musings
 tagline:          'Miles musings'
 description:      'Miles stuff'
-theme:            Superhero
+theme:            Cerulean
 
 author:
   name:           'Miles Fannin'
